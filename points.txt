@@ -1,0 +1,5 @@
+FaceNet
+DeepFace
+Inception Block
+Batch Normalization
+Pooling
