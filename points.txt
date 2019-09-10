@@ -3,3 +3,7 @@ DeepFace
 Inception Block
 Batch Normalization
 Pooling
+Rnn
+r-cnn
+yolo
+
