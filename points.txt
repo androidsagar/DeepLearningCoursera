@@ -6,4 +6,6 @@ Pooling
 Rnn
 r-cnn
 yolo
+GRU - Gated Recurrent Unit
+LSTM - Long Short Term Memory
 
