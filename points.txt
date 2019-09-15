@@ -8,4 +8,7 @@ r-cnn
 yolo
 GRU - Gated Recurrent Unit
 LSTM - Long Short Term Memory
+BackPropagation - ConvNet, RNN
+Gradient Clipping
+Word2Vec - PPT available
 
