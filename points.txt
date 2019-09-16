@@ -11,4 +11,7 @@ LSTM - Long Short Term Memory
 BackPropagation - ConvNet, RNN
 Gradient Clipping
 Word2Vec - PPT available
+HIerarchical softmax
+Negative Sampling
+GloVe word vectors - ppt added
 
