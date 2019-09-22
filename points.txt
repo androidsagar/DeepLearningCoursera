@@ -1,9 +1,11 @@
 FaceNet
 DeepFace
+Alex Net
 Inception Block
 Batch Normalization
 Pooling
 Rnn
+BiDirectional RNN
 r-cnn
 yolo
 GRU - Gated Recurrent Unit
@@ -18,4 +20,6 @@ Debiasing word embeddingss
 Greedy Search
 Beam Search
 Conditional Model
+Bleu Score
+CTC cost for speech recognition(Connectionitst temporal classifiaction)
 
