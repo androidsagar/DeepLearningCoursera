@@ -15,4 +15,7 @@ HIerarchical softmax
 Negative Sampling
 GloVe word vectors - ppt added
 Debiasing word embeddingss
+Greedy Search
+Beam Search
+Conditional Model
 
