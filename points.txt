@@ -22,4 +22,6 @@ Beam Search
 Conditional Model
 Bleu Score
 CTC cost for speech recognition(Connectionitst temporal classifiaction)
+Skip Gram
+Negative Sampling
 
