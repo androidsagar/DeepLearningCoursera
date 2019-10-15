@@ -24,4 +24,19 @@ Bleu Score
 CTC cost for speech recognition(Connectionitst temporal classifiaction)
 Skip Gram
 Negative Sampling
+Adam
+RmsProp
+Gradient descent
+VGG16
+Fine Tunning Models
+
+
+FrameWorks---
+Keras
+Theano
+Tensoflow
+CNTK
+HDF5
+h5py
+
 
